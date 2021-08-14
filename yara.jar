@@ -1,4 +1,4 @@
-v=rule myapp
+rule myapp
 {
 	meta:
 		description="my exe find"
